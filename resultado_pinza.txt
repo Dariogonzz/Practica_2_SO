@@ -1,0 +1,207 @@
+--- INFORME DE EJECUCIÓN ---
+Fecha: Sun Jun 21 13:30:36     2026
+PID asociado: 1905
+ID: 5118 Galga: 0.24 Izq: 1.796 Der: 1.752
+Estado muestra 5118: ESTABLE
+ID: 6574 Galga: 0.22 Izq: 1.595 Der: 1.676
+Estado muestra 6574: ESTABLE
+ID: 18852 Galga: 0.229 Izq: 1.574 Der: 1.617
+Estado muestra 18852: ESTABLE
+ID: 1202 Galga: 0.251 Izq: 1.841 Der: 1.835
+Estado muestra 1202: ESTABLE
+ID: 13342 Galga: 0.247 Izq: 1.806 Der: 1.79
+Estado muestra 13342: ESTABLE
+ID: 14167 Galga: 0.262 Izq: 1.921 Der: 1.973
+Estado muestra 14167: ESTABLE
+ID: 6178 Galga: 0.234 Izq: 1.68 Der: 1.72
+Estado muestra 6178: ESTABLE
+ID: 10733 Galga: 0.263 Izq: 1.968 Der: 1.883
+Estado muestra 10733: ESTABLE
+ID: 8593 Galga: 0.224 Izq: 1.629 Der: 1.719
+Estado muestra 8593: ESTABLE
+ID: 19963 Galga: 0.232 Izq: 1.722 Der: 1.673
+Estado muestra 19963: ESTABLE
+ID: 10490 Galga: 0.239 Izq: 1.868 Der: 1.833
+Estado muestra 10490: ESTABLE
+ID: 10041 Galga: 0.241 Izq: 1.683 Der: 1.749
+Estado muestra 10041: ESTABLE
+ID: 8863 Galga: 0.216 Izq: 1.509 Der: 1.517
+Estado muestra 8863: ESTABLE
+ID: 1099 Galga: 0.238 Izq: 1.792 Der: 1.905
+Estado muestra 1099: ESTABLE
+ID: 15736 Galga: 0.227 Izq: 1.558 Der: 1.569
+Estado muestra 15736: ESTABLE
+ID: 19230 Galga: 0.23 Izq: 1.607 Der: 1.667
+Estado muestra 19230: ESTABLE
+ID: 19696 Galga: 0.206 Izq: 1.528 Der: 1.531
+Estado muestra 19696: ESTABLE
+ID: 6658 Galga: 0.23 Izq: 1.576 Der: 1.788
+Estado muestra 6658: INESTABLE
+ID: 12773 Galga: 0.21 Izq: 1.522 Der: 1.465
+Estado muestra 12773: ESTABLE
+ID: 3575 Galga: 0.244 Izq: 1.817 Der: 1.86
+Estado muestra 3575: ESTABLE
+ID: 4932 Galga: 0.239 Izq: 1.779 Der: 1.838
+Estado muestra 4932: ESTABLE
+ID: 12213 Galga: 0.234 Izq: 1.602 Der: 1.651
+Estado muestra 12213: ESTABLE
+ID: 15955 Galga: 0.197 Izq: 1.447 Der: 1.523
+Estado muestra 15955: ESTABLE
+ID: 12533 Galga: 0.21 Izq: 1.583 Der: 1.569
+Estado muestra 12533: ESTABLE
+ID: 412 Galga: 0.259 Izq: 1.988 Der: 1.966
+Estado muestra 412: ESTABLE
+ID: 19323 Galga: 0.225 Izq: 1.593 Der: 1.57
+Estado muestra 19323: ESTABLE
+ID: 17336 Galga: 0.252 Izq: 1.829 Der: 1.921
+Estado muestra 17336: ESTABLE
+ID: 18171 Galga: 0.24 Izq: 1.905 Der: 1.783
+Estado muestra 18171: ESTABLE
+ID: 13237 Galga: 0.239 Izq: 1.765 Der: 1.766
+Estado muestra 13237: ESTABLE
+ID: 16145 Galga: 0.196 Izq: 1.381 Der: 1.423
+Estado muestra 16145: ESTABLE
+ID: 18537 Galga: 0.213 Izq: 1.538 Der: 1.465
+Estado muestra 18537: ESTABLE
+ID: 18022 Galga: 0.252 Izq: 1.917 Der: 1.914
+Estado muestra 18022: ESTABLE
+ID: 12847 Galga: 0.215 Izq: 1.524 Der: 1.511
+Estado muestra 12847: ESTABLE
+ID: 14767 Galga: 0.251 Izq: 1.869 Der: 1.777
+Estado muestra 14767: ESTABLE
+ID: 1135 Galga: 0.239 Izq: 1.763 Der: 1.896
+Estado muestra 1135: ESTABLE
+ID: 1126 Galga: 0.244 Izq: 1.805 Der: 1.886
+Estado muestra 1126: ESTABLE
+ID: 15136 Galga: 0.232 Izq: 1.629 Der: 1.596
+Estado muestra 15136: ESTABLE
+ID: 4354 Galga: 0.248 Izq: 1.798 Der: 1.746
+Estado muestra 4354: ESTABLE
+ID: 7218 Galga: 0.273 Izq: 1.949 Der: 1.963
+Estado muestra 7218: ESTABLE
+ID: 11113 Galga: 0.267 Izq: 1.986 Der: 1.927
+Estado muestra 11113: ESTABLE
+ID: 14963 Galga: 0.24 Izq: 1.719 Der: 1.656
+Estado muestra 14963: ESTABLE
+ID: 15780 Galga: 0.231 Izq: 1.57 Der: 1.561
+Estado muestra 15780: ESTABLE
+ID: 16102 Galga: 0.212 Izq: 1.477 Der: 1.46
+Estado muestra 16102: ESTABLE
+ID: 12174 Galga: 0.216 Izq: 1.604 Der: 1.641
+Estado muestra 12174: ESTABLE
+ID: 12425 Galga: 0.212 Izq: 1.495 Der: 1.469
+Estado muestra 12425: ESTABLE
+ID: 18530 Galga: 0.215 Izq: 1.651 Der: 1.541
+Estado muestra 18530: ESTABLE
+ID: 4590 Galga: 0.238 Izq: 1.733 Der: 1.827
+Estado muestra 4590: ESTABLE
+ID: 15062 Galga: 0.226 Izq: 1.719 Der: 1.643
+Estado muestra 15062: ESTABLE
+ID: 12691 Galga: 0.215 Izq: 1.524 Der: 1.507
+Estado muestra 12691: ESTABLE
+ID: 17904 Galga: 0.26 Izq: 1.919 Der: 1.931
+Estado muestra 17904: ESTABLE
+ID: 10967 Galga: 0.251 Izq: 2.031 Der: 1.907
+Estado muestra 10967: ESTABLE
+ID: 18788 Galga: 0.228 Izq: 1.565 Der: 1.557
+Estado muestra 18788: ESTABLE
+ID: 18573 Galga: 0.22 Izq: 1.648 Der: 1.543
+Estado muestra 18573: ESTABLE
+ID: 17157 Galga: 0.245 Izq: 1.754 Der: 1.794
+Estado muestra 17157: ESTABLE
+ID: 3921 Galga: 0.251 Izq: 1.849 Der: 1.91
+Estado muestra 3921: ESTABLE
+ID: 14962 Galga: 0.247 Izq: 1.717 Der: 1.638
+Estado muestra 14962: ESTABLE
+ID: 12702 Galga: 0.203 Izq: 1.489 Der: 1.484
+Estado muestra 12702: ESTABLE
+ID: 12138 Galga: 0.226 Izq: 1.626 Der: 1.665
+Estado muestra 12138: ESTABLE
+ID: 19159 Galga: 0.225 Izq: 1.54 Der: 1.679
+Estado muestra 19159: ESTABLE
+ID: 8224 Galga: 0.231 Izq: 1.709 Der: 1.767
+Estado muestra 8224: ESTABLE
+ID: 3948 Galga: 0.253 Izq: 1.918 Der: 1.837
+Estado muestra 3948: ESTABLE
+ID: 7376 Galga: 0.262 Izq: 2.027 Der: 1.938
+Estado muestra 7376: ESTABLE
+ID: 6092 Galga: 0.228 Izq: 1.705 Der: 1.65
+Estado muestra 6092: ESTABLE
+ID: 734 Galga: 0.23 Izq: 1.779 Der: 1.904
+Estado muestra 734: ESTABLE
+ID: 11255 Galga: 0.251 Izq: 1.883 Der: 1.814
+Estado muestra 11255: ESTABLE
+ID: 19911 Galga: 0.234 Izq: 1.704 Der: 1.609
+Estado muestra 19911: ESTABLE
+ID: 15707 Galga: 0.242 Izq: 1.553 Der: 1.672
+Estado muestra 15707: ESTABLE
+ID: 9732 Galga: 0.241 Izq: 1.746 Der: 1.627
+Estado muestra 9732: ESTABLE
+ID: 14386 Galga: 0.264 Izq: 1.973 Der: 2.032
+Estado muestra 14386: ESTABLE
+ID: 4425 Galga: 0.24 Izq: 1.804 Der: 1.711
+Estado muestra 4425: ESTABLE
+ID: 8998 Galga: 0.214 Izq: 1.504 Der: 1.47
+Estado muestra 8998: ESTABLE
+ID: 3478 Galga: 0.239 Izq: 1.695 Der: 1.712
+Estado muestra 3478: ESTABLE
+ID: 10664 Galga: 0.249 Izq: 1.84 Der: 1.878
+Estado muestra 10664: ESTABLE
+ID: 12183 Galga: 0.221 Izq: 1.597 Der: 1.67
+Estado muestra 12183: ESTABLE
+ID: 18081 Galga: 0.246 Izq: 1.822 Der: 1.846
+Estado muestra 18081: ESTABLE
+ID: 9750 Galga: 0.22 Izq: 1.604 Der: 1.699
+Estado muestra 9750: ESTABLE
+ID: 13091 Galga: 0.247 Izq: 1.761 Der: 1.766
+Estado muestra 13091: ESTABLE
+ID: 9622 Galga: 0.232 Izq: 1.629 Der: 1.648
+Estado muestra 9622: ESTABLE
+ID: 1316 Galga: 0.256 Izq: 1.861 Der: 1.826
+Estado muestra 1316: ESTABLE
+ID: 8399 Galga: 0.231 Izq: 1.769 Der: 1.793
+Estado muestra 8399: ESTABLE
+ID: 11688 Galga: 0.232 Izq: 1.619 Der: 1.684
+Estado muestra 11688: ESTABLE
+ID: 17880 Galga: 0.267 Izq: 1.943 Der: 1.956
+Estado muestra 17880: ESTABLE
+ID: 682 Galga: 0.262 Izq: 1.857 Der: 1.842
+Estado muestra 682: ESTABLE
+ID: 7865 Galga: 0.262 Izq: 1.904 Der: 1.85
+Estado muestra 7865: ESTABLE
+ID: 410 Galga: 0.254 Izq: 1.964 Der: 1.884
+Estado muestra 410: ESTABLE
+ID: 5122 Galga: 0.242 Izq: 1.719 Der: 1.743
+Estado muestra 5122: ESTABLE
+ID: 8513 Galga: 0.237 Izq: 1.712 Der: 1.753
+Estado muestra 8513: ESTABLE
+ID: 15857 Galga: 0.209 Izq: 1.533 Der: 1.588
+Estado muestra 15857: ESTABLE
+ID: 11962 Galga: 0.238 Izq: 1.719 Der: 1.729
+Estado muestra 11962: ESTABLE
+ID: 18735 Galga: 0.219 Izq: 1.568 Der: 1.544
+Estado muestra 18735: ESTABLE
+ID: 12634 Galga: 0.215 Izq: 1.466 Der: 1.479
+Estado muestra 12634: ESTABLE
+ID: 1914 Galga: 0.217 Izq: 1.633 Der: 1.501
+Estado muestra 1914: ESTABLE
+ID: 7247 Galga: 0.258 Izq: 1.948 Der: 1.916
+Estado muestra 7247: ESTABLE
+ID: 17608 Galga: 0.237 Izq: 1.848 Der: 1.838
+Estado muestra 17608: ESTABLE
+ID: 1572 Galga: 0.265 Izq: 1.865 Der: 1.91
+Estado muestra 1572: ESTABLE
+ID: 15548 Galga: 0.235 Izq: 1.627 Der: 1.71
+Estado muestra 15548: ESTABLE
+ID: 4166 Galga: 0.248 Izq: 1.817 Der: 1.841
+Estado muestra 4166: ESTABLE
+ID: 15986 Galga: 0.207 Izq: 1.45 Der: 1.492
+Estado muestra 15986: ESTABLE
+ID: 11247 Galga: 0.258 Izq: 1.863 Der: 1.819
+Estado muestra 11247: ESTABLE
+ID: 6843 Galga: 0.238 Izq: 1.666 Der: 1.71
+Estado muestra 6843: ESTABLE
+Media galga: 0.236
+Media fuerza izquierda: 1.719
+Media fuerza derecha: 1.723
+[BASH] El proceso ha finalizado correctamente por sí mismo.
